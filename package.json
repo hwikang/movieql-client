@@ -1,0 +1,8 @@
+{
+  "name": "movieql-client",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hwikang/movieql-client.git",
+  "author": "강휘 <khdrogba@gmail.com>",
+  "license": "MIT"
+}
